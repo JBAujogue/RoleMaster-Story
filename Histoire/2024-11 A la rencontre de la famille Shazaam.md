@@ -1,6 +1,6 @@
 ### 1. L'évasion de MontProfond
 
-Nous nous sommes évadés des geôles de la main d'argent (??) situées au niveau -3 de [MontProfond](Lieux/MontProfond.md), profitant du massacre de ce gang perpétré par 3 aventuriers, qui ont finalement été terrassés par un TyraMort. Dans son dernier souffle, l'un des aventuriers (un archer très séduisant du nom d'Elwenn) nous a suggéré de lire les souvenir du TyranOeil encastré dans le TyraMort afin de connaitre la vérité. Profitant du désordre ambiant, nous sommes ressorti à la surface en empruntant un portail magique menant directement dans un petit avant-poste du gang, en plein centre d'[EauProfonde](Lieux/EauProfonde.md), emportant l'œil avec nous.
+Nous nous sommes évadés des geôles de la main d'argent (??) situées au niveau -3 de [MontProfond](../Lieux/MontProfond.md), profitant du massacre de ce gang perpétré par 3 aventuriers, qui ont finalement été terrassés par un TyraMort. Dans son dernier souffle, l'un des aventuriers (un archer très séduisant du nom d'Elwenn) nous a suggéré de lire les souvenir du TyranOeil encastré dans le TyraMort afin de connaitre la vérité. Profitant du désordre ambiant, nous sommes ressorti à la surface en empruntant un portail magique menant directement dans un petit avant-poste du gang, en plein centre d'[EauProfonde](../Lieux/EauProfonde.md), emportant l'œil avec nous.
 
 ### 2. L'installation à EauProfonde
 
@@ -8,7 +8,7 @@ Une fois à la surface, nous avons revendu le matériel très haut de gamme trou
 
 ### 3. A la recherche d'un nécromancien
 
-Nous avons été orientés vers le cimetière d'EauProfonde, puis le fossoyeur nous suggéra d'inspecter le caveau familial d'une vieille lignée appelées Shazaam. Le caveau était visiblement abandonné depuis des lustres, et en le visitant nous sommes tombés nez-à-nez avec un nécromancien, qui nous attaqua et envoya ses goules sur nous, et qui hélas succomba à ses blessures lors de son combat avec nous (il se serait pris une hache dans la tête). En fond de caveau trônait une immense statue représentant un [Bâtisseur](Personnages%20&%20Groupes/bâtisseurs.md), avec une pierre à l'aspect précieux dans sa main.
+Nous avons été orientés vers le cimetière d'EauProfonde, puis le fossoyeur nous suggéra d'inspecter le caveau familial d'une vieille lignée appelées Shazaam. Le caveau était visiblement abandonné depuis des lustres, et en le visitant nous sommes tombés nez-à-nez avec un nécromancien, qui nous attaqua et envoya ses goules sur nous, et qui hélas succomba à ses blessures lors de son combat avec nous (il se serait pris une hache dans la tête). En fond de caveau trônait une immense statue représentant un [Bâtisseur](../Personnages%20&%20Groupes/bâtisseurs.md), avec une pierre à l'aspect précieux dans sa main.
 
 ### 4. La crypte secrète des Shazaam
 
@@ -16,13 +16,13 @@ Le plan établi était de retrouver l'actuel propriétaire du caveau familial af
 
 L'inspection du joaillier révéla que cette pierre était polie mais sans valeur. La pierre se mit à briller au contact de la descendante Shazaam, mais également au contact du nécromant mort dans cette crypte. Nous observèrent qu'un sort offensif en plus du contact avec un Shazaam activait un mécanisme faisant pivoter la statue de Bâtisseur, révélant ainsi un escalier descendant encore plus avant. En bas de cet escalier se trouvaient des cercueils en cercle.
 
-L'un de ces cercueil semblait ouvert depuis fort longtemps, avec le nom d'[Arklem Greeth](Personnages%20&%20Groupes/Arklem%20Greeth.md) gravé dessus.
+L'un de ces cercueil semblait ouvert depuis fort longtemps, avec le nom d'[Arklem Greeth](../Personnages%20&%20Groupes/Arklem%20Greeth.md) gravé dessus.
 
 ### 5. La rencontre avec Larlock Shazaam
 
-Une autre cercueil avait récemment été déplacé, et lors de son ouverture nous sommes entrés en combat contre une Liche sommeillant dans le cercueil. Après l'avoir cloisonnée dans un sort de contention, nous avons pu discuter avec celle-ci, qui se nomme [Larlock Shazaam](Personnages%20&%20Groupes/Larlock%20Shazaam.md). En échange de notre engagement à restaurer le prestige de la famille Shazaam, Larlock accepta d'inspecter l'œil et de répondre à toutes nos questions, et de nous donner accès à la bibliothèque familiale stockée dans cette crypte. 
+Une autre cercueil avait récemment été déplacé, et lors de son ouverture nous sommes entrés en combat contre une Liche sommeillant dans le cercueil. Après l'avoir cloisonnée dans un sort de contention, nous avons pu discuter avec celle-ci, qui se nomme [Larlock Shazaam](../Personnages%20&%20Groupes/Larlock%20Shazaam.md). En échange de notre engagement à restaurer le prestige de la famille Shazaam, Larlock accepta d'inspecter l'œil et de répondre à toutes nos questions, et de nous donner accès à la bibliothèque familiale stockée dans cette crypte. 
 
-La vision des souvenirs de l'œil montra l'enchainement d'événements récents reliés aux prophéties de [Nétheril](Lieux/Nétheril.md) et de [Illefarn](Lieux/Illefarn.md), impliquant Arklem Greeth et la [Confrérie des Arcanes](Personnages%20&%20Groupes/Confrérie%20des%20Arcanes.md), les [Magiciens Rouge](Personnages%20&%20Groupes/Magiciens%20Rouge.md) de [Thay](Lieux/Thay.md). Larlock était surpris de constater que Arklem, qui est un membre plus jeune de la famille Shazaam, eût un rôle dans cette histoire. Il indiqua aussi que sa famille était liée (de quelle façon ??) à la présence de Bâtisseurs en EauProfonde, comme le montre la statue à l'entrée de la crypte secrète, et que des Bâtisseurs résidaient sous forme éthérée dans MontProfond. Aller à la rencontre de ces Bâtisseurs est la meilleure façon de comprendre leur rôle à jouer dans les événements à venir.
+La vision des souvenirs de l'œil montra l'enchainement d'événements récents reliés aux prophéties de [Nétheril](../Lieux/Nétheril.md) et de [Illefarn](../Lieux/Illefarn.md), impliquant Arklem Greeth et la [Confrérie des Arcanes](../Personnages%20&%20Groupes/Confrérie%20des%20Arcanes.md), les [Magiciens Rouge](../Personnages%20&%20Groupes/Magiciens%20Rouge.md) de [Thay](../Lieux/Thay.md). Larlock était surpris de constater que Arklem, qui est un membre plus jeune de la famille Shazaam, eût un rôle dans cette histoire. Il indiqua aussi que sa famille était liée (de quelle façon ??) à la présence de Bâtisseurs en EauProfonde, comme le montre la statue à l'entrée de la crypte secrète, et que des Bâtisseurs résidaient sous forme éthérée dans MontProfond. Aller à la rencontre de ces Bâtisseurs est la meilleure façon de comprendre leur rôle à jouer dans les événements à venir.
 
 ### 6. Enquête sur le meurtre des parents Shazaam
 
