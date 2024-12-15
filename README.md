@@ -5,8 +5,8 @@
 - Get `Obsidian`.
 - Install the `Easy Bake` community plugin (whose repo is [this one](https://github.com/mgmeyers/obsidian-easy-bake)).
 - Install the `obsidian-git` community plugin (beware of potential malicious plugins, the repo it should points to is [this one](https://github.com/Vinzent03/obsidian-git)).
-- Reopen Obsidian in the parent directory, open the command palette (CMD/Ctrl + P) and run `Clone an existing remote repo`. Paste the present repo URL, then type your folder name.
-- Restart your Obsidian.
+- Reopen Obsidian in the parent directory of where you wish to put your project repertory, open the command palette (CMD/Ctrl + P) and run `Clone an existing remote repo`. Paste the present repo URL, then type your repertory name.
+- Reopen your Obsidian into your local repertory, then pull the content of the present repo.
 
 ## Compile a new concatenated document
 
