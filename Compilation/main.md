@@ -3,11 +3,11 @@
 
 ## A la rencontre de la famille Shazaam
 
-[2024-11 A la rencontre de la famille Tchazzam](2024-11%20A%20la%20rencontre%20de%20la%20famille%20Tchazzam.md)
+[Acte 5.1 - A la rencontre de la famille Tchazzam](Acte%205.1%20-%20A%20la%20rencontre%20de%20la%20famille%20Tchazzam.md)
 
 ## Sur la trace des Bâtisseurs
 
-[2024-12 Sur la trace des Bâtisseurs](../Histoire/2024-12%20Sur%20la%20trace%20des%20Bâtisseurs.md)
+[Acte 5.2 - Sur la trace des Bâtisseurs](Acte%205.2%20-%20Sur%20la%20trace%20des%20Bâtisseurs.md)
 
 ***
 # Personnages & Groupes
