@@ -3,7 +3,7 @@
 
 ## A la rencontre de la famille Shazaam
 
-[2024-11 A la rencontre de la famille Shazaam](../Histoire/2024-11%20A%20la%20rencontre%20de%20la%20famille%20Shazaam.md)
+[2024-11 A la rencontre de la famille Tchazzam](2024-11%20A%20la%20rencontre%20de%20la%20famille%20Tchazzam.md)
 
 ## Sur la trace des Bâtisseurs
 
