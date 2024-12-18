@@ -20,10 +20,10 @@ Au cours des sept siècles et demi qui suivirent, de nombreux elfes abandonnère
 
 Après la chute d'Athalantar, en l' an 342 CV , les elfes d'Ardeep formèrent une solide alliance avec les nains de Dardath et les deux royaumes conservèrent le nom d'Illefarn, s'efforçant de travailler avec les populations humaines locales au lieu de se cacher d'elles.
 Cela se produisit moins de deux siècles plus tard, en l' an 523 CV , lorsque les elfes et les nains d'Illefarn contribuèrent à former le royaume de Phalorm après le Conseil de la Hache et de la Flèche.
-Outre les érudits, la mémoire d'Illefarn a été maintenue vivante par les nains du clan Ironeater , qui se sont obstinément accrochés à leur identité d'Illefarn des siècles après la chute de Phalorm.
+Outre les érudits, la mémoire d'Illefarn a été maintenue vivante par les nains du clan Ironeater, qui se sont obstinément accrochés à leur identité d'Illefarn des siècles après la chute de Phalorm.
 
 #### La montée de l'Empire
 
-À mesure que Netheril s'élevait, il ne connaissait que les elfes d'Illefarn et d'Eaerlann parmi ses voisins. Les elfes des deux nations tentèrent de fournir des conseils aux sorciers du Nétheril, mais leurs relations se détériorèrent.
+À mesure que le Nétheril s'élevait, il ne connaissait que les elfes d'Illefarn et d'Eaerlann parmi ses voisins. Les elfes des deux nations tentèrent de fournir des conseils aux sorciers du Nétheril, mais leurs relations se détériorèrent.
 
 En -2825 CV, les elfes d'Illefarn volèrent un ensemble de parchemins appartenant au Nétheril, établissant un équilibre délicat du pouvoir entre les nations qui dura des millénaires.
