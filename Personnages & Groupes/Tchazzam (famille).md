@@ -5,7 +5,7 @@
 
 Dernière descendante de la famille Tchazzam connue en [EauProfonde](../Lieux/EauProfonde.md). 
 N'embrasse pas (encore) les coutumes de nécromanciens de sa famille, qui a eut de nombreux membres convertis en liche par le passé. 
-N'est pas au fait des liens qu'à pût avoir sa famille avec les Nétherisses, les [Illefarns](../Personnages%20&%20Groupes/illefarns.md) ou les [Bâtisseurs](../Personnages%20&%20Groupes/bâtisseurs.md).
+N'est pas au fait des liens qu'à pût avoir sa famille avec les Nétherisses, les [Illefarns](Illefarn.md) ou les [Bâtisseurs](../Personnages%20&%20Groupes/bâtisseurs.md).
 
 #### Larloch Tchazzam
 

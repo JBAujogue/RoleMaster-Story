@@ -2,7 +2,6 @@
 # Histoire
 
 ## Acte 5.1 - A la rencontre de la famille Tchazzam
-
 #### 1. L'évasion de MontProfond
 
 Nous nous sommes évadés des geôles de la Main et de l'Œil situées au niveau -3 de MontProfond, profitant du massacre de ce gang perpétré par 3 aventuriers, qui ont finalement été terrassés par un TyraMort. Dans son dernier souffle, l'un des aventuriers (un archer très séduisant du nom d'Erwenn) nous a suggéré de lire les souvenir du TyranOeil encastré dans le TyraMort afin de connaitre l'histoire de ces aventuriers, le TyranOeil ayant lui-même lu ces souvenirs dans l'esprit des aventuriers. Profitant du désordre ambiant, nous sommes ressorti à la surface en empruntant un portail magique menant directement dans un petit avant-poste de la Main, en plein centre d'EauProfonde, emportant l'œil avec nous.
@@ -27,7 +26,7 @@ L'un de ces cercueil semblait ouvert depuis fort longtemps, avec le nom d'Arklem
 
 Une autre cercueil avait récemment été déplacé, et lors de son ouverture nous sommes entrés en combat contre une Liche sommeillant dans le cercueil. Après l'avoir cloisonnée dans un sort de contention, nous avons pu discuter avec celle-ci, qui se nomme Larloch Tchazzam. En échange de notre engagement à restaurer le prestige de la famille Tchazzam, Larloch accepta d'inspecter l'œil et de répondre à toutes nos questions, et de nous donner accès à la bibliothèque familiale entreposée dans cette crypte.
 
-La vision des souvenirs de l'œil montra l'enchainement d'événements récents reliés aux prophéties de Nétherisses et des Illefarns, impliquant Arklem Greeth et la Confrérie des Arcanes, les Magiciens Rouge de Thay. Larloch était surpris de constater que Arklem, qui est un membre plus jeune de la famille Tchazzam, eût un rôle dans cette histoire. Il indiqua aussi que sa famille était liée (de quelle façon ??) à la présence de Bâtisseurs en EauProfonde, comme le montre la statue à l'entrée de la crypte secrète, et que des Bâtisseurs résidaient sous forme éthérée dans MontProfond. Aller à la rencontre de ces Bâtisseurs est la meilleure façon de comprendre leur rôle à jouer dans les événements à venir.
+La vision des souvenirs de l'œil montra l'enchainement d'événements récents reliés aux prophéties du Nétheril et d'Illefarn, impliquant Arklem Greeth et la Confrérie des Arcanes, les Magiciens Rouge de Thay. Larloch était surpris de constater que Arklem, qui est un membre plus jeune de la famille Tchazzam, eût un rôle dans cette histoire. Il indiqua aussi que sa famille était liée (de quelle façon ??) à la présence de Bâtisseurs en EauProfonde, comme le montre la statue à l'entrée de la crypte secrète, et que des Bâtisseurs résidaient sous forme éthérée dans MontProfond. Aller à la rencontre de ces Bâtisseurs est la meilleure façon de comprendre leur rôle à jouer dans les événements à venir.
 
 #### 6. Enquête sur le meurtre des parents Tchazzam
 
@@ -41,7 +40,6 @@ BâtonDeTonnerre reprochait publiquement aux Tchazzam de pratiquer la nécromanc
 
 
 ## Acte 5.2 - Sur la trace des Bâtisseurs
-
 
 
 ***
@@ -60,6 +58,31 @@ Il est vaincu à la Tour de l'Hôte lors de l'acte 2 de cette campagne, mais men
 
 ### Confrérie des Arcanes
 
+### Illefarn (Empire)
+
+#### Guerres de la Couronne
+
+Illefarn tenta de rester neutre durant la période turbulente des Guerres de la Couronne . En -11 800 CV , des refuges secrets furent fournis aux anciens citoyens Miyeritari par les elfes d'Illefarn. 
+Ses hauts mages et prêtres de Corellon , la noblesse d'Illefarn, commencèrent des décennies de prières en -10 110 CV , espérant que la Seldarine interviendrait et mettrait fin à l'utilisation du feu par les elfes noirs d'Ilythiir.
+Leurs prières furent exaucées en -10 000 CV , bien que les conséquences retombèrent sur tous les elfes noirs, pas seulement sur les Ilythiiri, qui devinrent drows.
+En -9900 DR , sous le contrôle de la Maison Vyshaan et la direction du Coronal Giilvas Vyshaan , Aryvandaar attaqua Illefarn et sa colonie de Llewyrrwood.
+Ils cherchèrent à empêcher les prêtres et les hauts mages d'Illefarn de s'opposer à la cour d'Aryvandaar comme ils l'avaient fait aux Ilythiir.
+Aryvandaar tua la noblesse d'Illefarn et annexa ses terres. Les survivants s'enfuirent vers le sud pour rejoindre Shantel Othreier , tandis que d'autres s'installèrent dans les îles de Moonshae où ils devinrent connus sous le nom de Llewyrr.
+En -9200 DR , les prêtres et les hauts mages survivants sortirent de leur cachette pour s'opposer à Aryvandaar lors de la cinquième guerre de la Couronne.
+Illefarn réussit à survivre aux combats, devenant un royaume puissant par la suite.
+
+#### Le temps de la fondation
+
+Malgré la résistance de plusieurs hordes d'orques venues des montagnes de l'Épine dorsale du monde , c'est l'empiètement des humains sur le territoire d'Illefarn qui a poussé Syglaeth Audark, le coronal d'Illefarn, à appeler à une retraite vers Evermeet , rasant magiquement Aelinthaldaar en -1100 DR pour supprimer toute preuve de son existence.
+Au cours des sept siècles et demi qui suivirent, de nombreux elfes abandonnèrent leurs foyers des sept derniers millénaires et la population elfique d'Illefarn se réduisit à trois royaumes plus petits : Ardeep , Iliyanbruen et Rilithar.
+Après la chute d' Athalantar, en l' an 342 CV , les elfes d'Ardeep formèrent une solide alliance avec les nains de Dardath et les deux royaumes conservèrent le nom d'Illefarn, s'efforçant de travailler avec les populations humaines locales au lieu de se cacher d'elles.
+Cela se produisit moins de deux siècles plus tard, en l' an 523 CV , lorsque les elfes et les nains d'Illefarn contribuèrent à former le royaume de Phalorm après le Conseil de la Hache et de la Flèche.
+Outre les érudits, la mémoire d'Illefarn a été maintenue vivante par les nains du clan Ironeater , qui se sont obstinément accrochés à leur identité d'Illefarn des siècles après la chute de Phalorm.
+
+#### La montée de l'Empire
+
+À mesure que Netheril s'élevait, il ne connaissait que les elfes d'Illefarn et d'Eaerlann parmi ses voisins. Les elfes des deux nations tentèrent de fournir des conseils aux sorciers de Nether , mais leurs relations se détériorèrent.
+En -2825 DR , les elfes volèrent un ensemble de parchemins du Nether , établissant un équilibre délicat du pouvoir entre les nations qui dura des millénaires.
 ### Tchazzam (famille)
 #### Carina Tchazzam
 
@@ -79,4 +102,13 @@ Larloch est une liche très ancienne, membre de la famille Tchazzam passant son 
 
 ***
 # Lieux
+
+### EauProfonde
+
+EauProfonde est une cité cosmopolite qui en 1372 CV abrite environ 130 mille individus intra-muros, et 1.5 million dans toute l'agglomération.
+
+EauProfonde est bâtie sur l'emplacement de l'ancienne capitale de l'empire Illefarn, Aelinthaldaar. Cette dernière fût fondée vers -8500 CV et abritait Elfes (les Illefarns natifs), hommes et nains. Les nains ont creusé des mines sous cette capitale, qui existent encore de nos jours et sont appelées MontProfond. En -1100 CV, les elfes décidèrent de se retirer sur l'île paradisiaque de Eternelle-Rencontre (apparue sur Toril lors de la Première Fracture), et firent par la même occasion raser la capitale.
+
+Vraisemblablement, toute activité Illefarn avait déjà cessé à cet endroit lorsque les événements de la folie de Karsus eurent lieu en -339 CV.
+
 
