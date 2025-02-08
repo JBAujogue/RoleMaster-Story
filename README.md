@@ -10,6 +10,6 @@
 
 ## Compile a new concatenated document
 
-- Open the `Compilation/main.md` file into your Obsidian, and run in the command pallette `bake current file`. This will generate a `Compilation/main.baked.md` file, that you can now convert to PDF using Obsidian build-in tools.
+- Open the `Compilation/main.md` file into your Obsidian, and run in the command pallette (Ctrl + P) `bake current file`. This will generate a `Compilation/main.baked.md` file, that you can now convert to PDF using Obsidian build-in tools.
 
 Enjoy !
