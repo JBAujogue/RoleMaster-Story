@@ -22,3 +22,17 @@ Lors de nos pérégrination nous sommes tombés sur un escalier montant depuis l
 #### 3. Niveau -2
 
 Nous nous sommes dirigé vers une immense salle abritant une pyramide, où nous avons combattu 2 morts-vivants de niveau 8.
+
+La salle contient des gravures murales gigantesques, représentant des bâtisseurs, qui semblent effectuer des travaux manuels avec une utilisation de la magie.
+
+En regardant nonchalamment en l'air, nous nous rendîmes compte qu'une araignée géante était en train de descendre lentement sur nous. En une attaque de la part de chacun, la bête était morte. Un magicien surgit alors d'une porte et nous fonçait dessus, que nous avons massacré avec la même efficacité.
+
+En entrant dans la pièce d'où venait ce mage, nous nous vîmes des nouvelles gravures de bâtisseurs, représentant des projectiles venant du ciel et venant exterminer la race des bâtisseurs. L'image est saisissante, les gravures représentent une hécatombe, une extermination pure et simple.
+Nous entendons dans notre tête des cris de douleur, que l'on devine venir d'un homme, dans un dernier élan d'agonie, puis ce cri se tait soudainement. Pendant que nous en parlions, nous entendons soudainement une porte claquer, le bruit semblant venir de l'extérieur de la pièce. Il s'agissait de 3 squelettes et un invocateur, cachés dans une autre pièce annexe à la grande salle. Nous les avons attaqué en formant 2 groupes d'attaque, pensant pouvoir les surprendre. Le combat fût terrible, un acolyte tombait dès les premiers instants, au autre dû activer sa faculté d'ours-garou pour plonger dans la melée. Le combat fût finalement gagné.
+
+
+
+
+
+
+
