@@ -9,7 +9,7 @@ Nous avons appris en parlant avec la plèbe que beaucoup de gens ont eut des vis
 
 L'UnderDark est un espace atteint par les nains lorsqu'ils ont creusé la mine de MontProfond, ayant creusé trop profondément et ayant atteint la partie haute de l'UnderDark.
 
-Des gens ont eut une vision d'un arbre, avec Alastar furieux. Cet endroit ne peut être qu'à Wyllowwood (niv -5) ou les fermes (niv -4).
+Des gens ont eut une vision d'un arbre, avec Alastar furieux. Cet endroit ne peut être qu'à Wyllowwood (niv -5) ou les fermes (niv -4). Après recoupement des témoignages, il apparût que seuls les mages du domaine de l'essence ont vécu cette vision.
 
 #### 2. Niveau -1
 
@@ -25,11 +25,21 @@ Nous nous sommes dirigé vers une immense salle abritant une pyramide, où nous 
 
 La salle contient des gravures murales gigantesques, représentant des bâtisseurs, qui semblent effectuer des travaux manuels avec une utilisation de la magie.
 
-En regardant nonchalamment en l'air, nous nous rendîmes compte qu'une araignée géante était en train de descendre lentement sur nous. En une attaque de la part de chacun, la bête était morte. Un magicien surgit alors d'une porte et nous fonçait dessus, que nous avons massacré avec la même efficacité.
+En regardant nonchalamment en l'air, nous nous rendîmes compte qu'une araignée géante était en train de descendre lentement le long de son fil. En une attaque de la part de chacun, la bête était morte. Un magicien surgit alors d'une porte et nous fonçait dessus, que nous avons massacré avec la même efficacité.
 
 En entrant dans la pièce d'où venait ce mage, nous nous vîmes des nouvelles gravures de bâtisseurs, représentant des projectiles venant du ciel et venant exterminer la race des bâtisseurs. L'image est saisissante, les gravures représentent une hécatombe, une extermination pure et simple.
-Nous entendons dans notre tête des cris de douleur, que l'on devine venir d'un homme, dans un dernier élan d'agonie, puis ce cri se tait soudainement. Pendant que nous en parlions, nous entendons soudainement une porte claquer, le bruit semblant venir de l'extérieur de la pièce. Il s'agissait de 3 squelettes et un invocateur, cachés dans une autre pièce annexe à la grande salle. Nous les avons attaqué en formant 2 groupes d'attaque, pensant pouvoir les surprendre. Le combat fût terrible, un acolyte tombait dès les premiers instants, au autre dû activer sa faculté d'ours-garou pour plonger dans la melée. Le combat fût finalement gagné.
 
+Nous entendons dans notre tête des cris de douleur, que l'on devine venir d'un homme, dans un dernier élan d'agonie, puis ce cri se tait soudainement. Pendant que nous en parlions, nous entendons soudainement une porte claquer, le bruit semblant venir de l'extérieur de la pièce. Il s'agissait de 3 squelettes et un invocateur, cachés dans une autre pièce annexe à la grande salle. Nous les avons attaqué en formant 2 groupes d'attaque, pensant pouvoir les surprendre. Le combat fût terrible, un acolyte tombait dès les premiers instants, au autre dû activer sa faculté d'ours garou pour plonger dans la mêlée. Le combat fût finalement gagné.
+
+En continuant le long du couloir sud, un globe de verre a subitement éclaté et a dégagé un gaz qui enveloppe maintenant tout le couloir. Nous nous sommes réfugiés dans la grande salle avent de respirer le gaz. Nous avons contourné ce couloir en empruntant un couloir parallèle, nous menant à une grande salle au centre de laquelle flotte une sphère avec un humanoïde à l'intérieur, encerclée de 6 constructs. En les menant dans un goulot d'étranglement nous les massacrons un par un. Nous nous approchons ensuite de la sphère: L'être à l'intérieur semble être une elfe, vêtue d'une tenue de mage mais sans classe particulière, endormie et tenant dans sa main un bâton, et la sphère est non palpable, traversable par un objet.
+
+L'un d'entre nous tend la main dans la sphère: l'elfe se réveille et nous tend le bâton en souriant, sans malice apparente. Nous acceptons le bâton, et la créature disparait alors ainsi que la sphère qui l'entourait. Nous trouvons au sol un [papier](https://docs.google.com/document/d/1mMVPpt7kfhuWCY-5nlLBiSGRwzTMoLhyaol4dnERUuU/edit?tab=t.0), qui e se voyait pas quand la sphère était encore là, et qui dit:
+
+*Dans les anciens textes que j’ai pu trouver au cours des mes recherches, les lycanthropes semblent associés au gardien.*
+*Ceux-ci tombent sous le contrôle des 7 serviteurs du gardien lors des pleines lunes.*
+*Je ne comprends pas encore pourquoi 7 serviteurs, je ne compte que 6 races de lycaons connues, peut-être ce chiffre a une toute autre signification…*
+
+Pourrait-elle être une Illefarn ? à part sa nature d'elfe, nous n'avons pas d'élément affirmer ou infirmer cette hypothèse.
 
 
 
