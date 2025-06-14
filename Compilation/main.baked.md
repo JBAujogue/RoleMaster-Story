@@ -75,13 +75,13 @@ Nous entendons dans notre tête des cris de douleur, que l'on devine venir d'un 
 
 En continuant le long du couloir sud, un globe de verre a subitement éclaté et a dégagé un gaz qui enveloppe maintenant tout le couloir. Nous nous sommes réfugiés dans la grande salle avent de respirer le gaz. Nous avons contourné ce couloir en empruntant un couloir parallèle, nous menant à une grande salle au centre de laquelle flotte une sphère avec un humanoïde à l'intérieur, encerclée de 6 constructs. En les menant dans un goulot d'étranglement nous les massacrons un par un. Nous nous approchons ensuite de la sphère: L'être à l'intérieur semble être une elfe, vêtue d'une tenue de mage mais sans classe particulière, endormie et tenant dans sa main un bâton, et la sphère est non palpable, traversable par un objet.
 
-L'un d'entre nous tend la main dans la sphère: l'elfe se réveille et nous tend le bâton en souriant, sans malice apparente. Nous acceptons le bâton, et la créature disparait alors ainsi que la sphère qui l'entourait. Nous trouvons au sol un [papier](https://docs.google.com/document/d/1mMVPpt7kfhuWCY-5nlLBiSGRwzTMoLhyaol4dnERUuU/edit?tab=t.0), qui e se voyait pas quand la sphère était encore là, et qui dit:
+L'un d'entre nous tend la main dans la sphère: l'elfe se réveille et nous tend le bâton en souriant, sans malice apparente. Nous acceptons le bâton, et la créature disparait alors ainsi que la sphère qui l'entourait. Nous trouvons au sol un [papier](https://docs.google.com/document/d/1mMVPpt7kfhuWCY-5nlLBiSGRwzTMoLhyaol4dnERUuU/edit?tab=t.0), qui ne se voyait pas quand la sphère était encore là, et qui dit:
 
 *Dans les anciens textes que j’ai pu trouver au cours des mes recherches, les lycanthropes semblent associés au gardien.*
 *Ceux-ci tombent sous le contrôle des 7 serviteurs du gardien lors des pleines lunes.*
 *Je ne comprends pas encore pourquoi 7 serviteurs, je ne compte que 6 races de lycaons connues, peut-être ce chiffre a une toute autre signification…*
 
-Pourrait-elle être une Illefarn ? à part sa nature d'elfe, nous n'avons pas d'élément affirmer ou infirmer cette hypothèse.
+Pourrait-elle être une Illefarn ? à part sa nature d'elfe, nous n'avons pas d'élément affirmer ou infirmer cette hypothèse. Nous trouvons également [un document](https://docs.google.com/drawings/d/1gBLFNhf28-m0SDcuYVOactR27Y-5syJrIncYtsmwdBY/edit) détaillant la race des Shards.
 
 Nous faisons une pause et remontons à la surface, ce qui nous donnait l'occasion d'améliorer nos armes. Le procédé a pris 3 mois (!), a l'issue duquel nous sommes allés percevoir les royalties sur les affaires de notre guilde. Nous redescendons ensuite au point duquel nous étions partis.
 
