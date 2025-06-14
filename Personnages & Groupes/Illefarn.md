@@ -27,3 +27,9 @@ Outre les érudits, la mémoire d'Illefarn a été maintenue vivante par les nai
 À mesure que le Nétheril s'élevait, il ne connaissait que les elfes d'Illefarn et d'Eaerlann parmi ses voisins. Les elfes des deux nations tentèrent de fournir des conseils aux sorciers du Nétheril, mais leurs relations se détériorèrent.
 
 En -2825 CV, les elfes d'Illefarn volèrent un ensemble de parchemins appartenant au Nétheril, établissant un équilibre délicat du pouvoir entre les nations qui dura des millénaires.
+
+
+### La prophétie du retour du Roi des Ombres
+
+La prophétie Illefarn évoque que le roi des ombre va revenir, et que ce retour sera provoqué par une personne du Nétheril. Cette prophétie est en contradiction avec celle côté [[Nétheril]].
+
