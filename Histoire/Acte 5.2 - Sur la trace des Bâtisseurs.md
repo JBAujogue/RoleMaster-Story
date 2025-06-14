@@ -41,6 +41,10 @@ L'un d'entre nous tend la main dans la sphère: l'elfe se réveille et nous tend
 
 Pourrait-elle être une Illefarn ? à part sa nature d'elfe, nous n'avons pas d'élément affirmer ou infirmer cette hypothèse.
 
+Nous faisons une pause et remontons à la surface, ce qui nous donnait l'occasion d'améliorer nos armes. Le procédé a pris 3 mois (!), a l'issue duquel nous sommes allés percevoir les royalties sur les affaires de notre guilde. Nous redescendons ensuite au point duquel nous étions partis.
+
+Nous continuons dans les couloirs et rentrons dans une salle tapies d'ossements, dont surgissent comme par magie 3 squelettes. Nous les annihilons, et allons passer la porte est derrière la quelle se cachait un mage nécromancien. Un carreau d'arbalète lui transperçait le cœur, il a chancelé quelques pas puis s'écroulait, mort.
+
 
 
 
