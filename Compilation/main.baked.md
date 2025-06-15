@@ -51,9 +51,7 @@ Nous avons appris en parlant avec la plèbe que beaucoup de gens ont eut des vis
 
 L'UnderDark est un espace atteint par les nains lorsqu'ils ont creusé la mine de MontProfond, ayant creusé trop profondément et ayant atteint la partie haute de l'UnderDark.
 
-```
-Des gens ont eut une vision d'un arbre, avec Halaster furieux. 
-```
+> Des gens ont eut une vision d'un arbre, avec Halaster furieux. 
 
 Cet endroit ne peut être qu'à Wyllowwood (niv -5) ou les fermes (niv -4). Après recoupement des témoignages, il apparût que seuls les mages du domaine de l'essence ont vécu cette vision.
 
@@ -69,17 +67,13 @@ Lors de nos pérégrination nous sommes tombés sur un escalier montant depuis l
 
 Nous nous sommes dirigé vers une immense salle abritant une pyramide, où nous avons combattu 2 morts-vivants de niveau 8.
 
-```
-La salle contient des gravures murales gigantesques, représentant des bâtisseurs, qui semblent effectuer des travaux manuels avec une utilisation de la magie.
-```
+> La salle contient des gravures murales gigantesques, représentant des bâtisseurs, qui semblent effectuer des travaux manuels avec une utilisation de la magie.
 
 En regardant nonchalamment en l'air, nous nous rendîmes compte qu'une araignée géante était en train de descendre lentement le long de son fil. En une attaque de la part de chacun, la bête était morte. Un magicien surgit alors d'une porte et nous fonçait dessus, que nous avons massacré avec la même efficacité.
 
 En entrant dans la pièce d'où venait ce mage:
 
-```
-Nous vîmes des nouvelles gravures de bâtisseurs, représentant des projectiles venant du ciel et venant exterminer la race des bâtisseurs. Cette scène décrit l’extermination des Bâtisseurs par les Arpenteurs. Les Bâtisseurs sont incapables de faire face à leurs armes et tombent par centaines sous les feux nourris de ces ennemis venus des étoiles.
-```
+> Nous vîmes des nouvelles gravures de bâtisseurs, représentant des projectiles venant du ciel et venant exterminer la race des bâtisseurs. Cette scène décrit l’extermination des Bâtisseurs par les Arpenteurs. Les Bâtisseurs sont incapables de faire face à leurs armes et tombent par centaines sous les feux nourris de ces ennemis venus des étoiles.
 
 L'image est saisissante, les gravures représentent une hécatombe, une extermination pure et simple.
 
@@ -89,11 +83,9 @@ En continuant le long du couloir sud, un globe de verre a subitement éclaté et
 
 L'un d'entre nous tend la main dans la sphère: l'elfe se réveille et nous tend le bâton en souriant, sans malice apparente. Nous acceptons le bâton, et la créature disparait alors ainsi que la sphère qui l'entourait. Nous trouvons au sol un [papier](https://docs.google.com/document/d/1mMVPpt7kfhuWCY-5nlLBiSGRwzTMoLhyaol4dnERUuU/edit?tab=t.0), qui ne se voyait pas quand la sphère était encore là, et qui dit:
 
-```
-Dans les anciens textes que j’ai pu trouver au cours des mes recherches, les lycanthropes semblent associés au gardien.
-Ceux-ci tombent sous le contrôle des 7 serviteurs du gardien lors des pleines lunes.
-Je ne comprends pas encore pourquoi 7 serviteurs, je ne compte que 6 races de lycaons connues, peut-être ce chiffre a une toute autre signification…
-```
+> Dans les anciens textes que j’ai pu trouver au cours des mes recherches, les lycanthropes semblent associés au gardien.
+> Ceux-ci tombent sous le contrôle des 7 serviteurs du gardien lors des pleines lunes.
+> Je ne comprends pas encore pourquoi 7 serviteurs, je ne compte que 6 races de lycaons connues, peut-être ce chiffre a une toute autre signification…
 
 Pourrait-elle être une Illefarn ? à part sa nature d'elfe, nous n'avons pas d'élément affirmer ou infirmer cette hypothèse. Nous trouvons également [un document](https://docs.google.com/drawings/d/1gBLFNhf28-m0SDcuYVOactR27Y-5syJrIncYtsmwdBY/edit) détaillant la race des Shards.
 
@@ -103,9 +95,7 @@ Nous continuons dans les couloirs et rentrons dans une salle tapies d'ossements,
 
 Nous continuâmes notre chemin jusqu'à une immense salle emplie de piliers. 
 
-```
-Sur les murs se dressent des dessins de 7 bâtisseurs, dans une scène les montrant en train d'effectuer un rituel, durant lequel ils se décorporent.
-```
+> Sur les murs se dressent des dessins de 7 bâtisseurs, dans une scène les montrant en train d'effectuer un rituel, durant lequel ils se décorporent.
 
 Nous soupçonnons que ces 7 bâtisseurs qui se décorporent sont les 7 serviteurs du gardien introduits dans la note trouvée précédemment, et qu'ils basculent sous forme éthérée.
 
@@ -113,26 +103,20 @@ En continuant nous nous trouvons nez-à-nez à une immense porte en pierre de 12
 
 Lorsque nous entrons dans la salle suivante, celle où nous avions entendus des cris, un filet rempli de meuble et vaisselle s'écrase sur nous, nous blessant légèrement. S'en suit un combat acharné contre des créature transformées en chien d'attaque. Apres ce combat, nous trouvons un cimeterre en argent, ainsi qu'une [note](https://docs.google.com/document/d/1oiS8B6S8LtcabPYSHWGm_cu-gDxVSE6JZuZKvPjDHjQ/edit?tab=t.0):
 
-```
-Pourquoi 7 serviteurs du roi des ombres alors que je n’ai identifié que 6 races lycanthropes lors de mes recherches:
-
-- loup
-- ours
-- tigre
-- lion
-- sanglier
-- chacal
-
-Les serviteurs sont-ils les lycans les plus puissants de leur race ?
-Ou sont-ils des lycans ayant été corrompus par la source de pouvoir ?
-Tout le monde connaît l’histoire d’Halaster arrivé avec 7 apprentis lorsqu’il a conquis Montprofond.
-```
+>Pourquoi 7 serviteurs du roi des ombres alors que je n’ai identifié que 6 races lycanthropes lors de mes recherches:
+>	- loup
+>	- ours
+>	- tigre
+>	- lion
+>	- sanglier
+>	- chacal
+>Les serviteurs sont-ils les lycans les plus puissants de leur race ?
+>Ou sont-ils des lycans ayant été corrompus par la source de pouvoir ?
+>Tout le monde connaît l’histoire d’Halaster arrivé avec 7 apprentis lorsqu’il a conquis MontProfond.
 
 L'auteur de ces notes semblait être à la recherche de ce qui contrôlait les lycans, ce qui l'aurait amené ici. Il semble persuadé que ces serviteurs sont des lycans eux-mêmes, ce qui reste à prouver.
 
-```
-Nous découvrons ensuite d'autres peintures, représentant des bâtisseurs sous leur forme éthérée, accompagnés d'un mage elfe, en train de faire un rituel autour d'un arbre.
-```
+> Nous découvrons ensuite d'autres peintures, représentant des bâtisseurs sous leur forme éthérée, accompagnés d'un mage elfe, en train de faire un rituel autour d'un arbre.
 
 Cet elfe est certainement un Illefarn, puisque leur capitale siégeait à la surface il fût un temps. Halaster étant un humain, il ne peut pas être ce mage elfe représenté dans les fresques. 
 
@@ -142,10 +126,21 @@ Nous découvrons également des écrits sur un certain arbre, une bouture de l'a
 
 Nous sommes retournés faire dater les peintures murales, qui datent aux environ de 200 cv, soit l'époque environ qu'Halaster aurait quant à lui commencé à nettoyer MontProfond avant cette date. Peut être qu'une histoire à voulu être transmise à la postérité, au moment ou Halaster faisait son remue-ménage dans MontProfond ?
 
-Nos réflexions nous ont conduit aux questions et conclusions suivantes:
-- Les 7 bâtisseurs éthérés impliqués dans les événements de MontProfond sont-ils les 7 serviteurs du gardien, qui sont également détenteurs d'une influence sur les races lycans ?
-- A quoi a servi le rituel impliquant les 7 bâtisseurs éthérés avec le mage elfe et l'arbre ? Pourquoi impliquer des serviteurs du gardien / roi des ombres ?
-- ==Halaster est venu dans MontProfond aux environs de 200 cv avec 7 apprentis, qui avaient une forte résistance à la magie et dont on ne connait pas la véritable force, pour offrir des corps aux 7 bâtisseurs éthérés==. Mais que cherche-t-il de ces bâtisseurs ? pourquoi à cette époque ? Cela a-t-il un rapport avec les prophéties Illefarn / Nétherisse ? 
+Nos réflexions furent les suivantes:
+1. Halaster est venu dans MontProfond aux environs de 200 cv avec 7 apprentis, qui avaient une forte résistance à la magie et dont on ne connait pas la véritable force. Il a fouillé et nettoyé MontProfond sur des dizaines d'années. Pourquoi se donner tant de peine, accompagné de cette troupe de précisément 7 apprentis ? ==Halaster est venu dans MontProfond avec 7 apprentis pour faire en sorte que les 7 bâtisseurs éthérés se réincarnent==. 
+2. Le fait qu'Halaster les cherche si assidûment montre que ces Bâtisseurs éthérés ont encore un rôle à jouer. ==Ces 7 bâtisseurs éthérés sont certainement les 7 serviteurs du gardien==.
+3. Si Halaster avait trouvé et réincarné les bâtisseurs, que ferait-il encore ici ? et où seraient alors ces bâtisseurs réincarnés ? Le plus probable est qu'Halaster n'a finalement jamais trouvé les bâtisseurs, et on peut en déduire que ==l'action d'Halaster est hostile et que les bâtisseurs se cachent de lui pour ne pas subir de réincarnation==.
+
+Beaucoup de questions restent sans réponse:
+- Qu'est-ce que les bâtisseurs sont capables de faire qui intéresse tant Halaster ?
+- Pour qui travaille Halaster ?
+- Pourquoi à cette époque ?
+- Quel est le rapport avec les prophéties Illefarn / Nétherisse ?
+- A quoi a servi le rituel impliquant les 7 bâtisseurs éthérés avec le mage elfe et l'arbre ?
+- Puisque ces bâtisseurs sont également les 7 serviteurs du gardien / roi des ombres, quel rapport a ce rituel avec le roi des ombres ?
+- Quel est le rôle du pouvoir lycanthrope des 7 serviteurs du gardien dans cette campagne ?
+
+
 
 
 

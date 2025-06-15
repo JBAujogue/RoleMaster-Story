@@ -97,6 +97,8 @@ Beaucoup de questions restent sans réponse:
 - A quoi a servi le rituel impliquant les 7 bâtisseurs éthérés avec le mage elfe et l'arbre ?
 - Puisque ces bâtisseurs sont également les 7 serviteurs du gardien / roi des ombres, quel rapport a ce rituel avec le roi des ombres ?
 - Quel est le rôle du pouvoir lycanthrope des 7 serviteurs du gardien dans cette campagne ?
+- Quand à eut lieu le massacre des Bâtisseurs ? quel impact cela a-t-il eut ? Qui en est responsable ?
+- Les bâtisseurs ont créés les tombeaux du temps, certainement que ces serviteurs du gardien ont activement participé, leur gardien ayant été corrompu et n'agissant plus pour le bien des Illefarn. La création de ces tombeaux est-elle liée à ces rituels de décorporation et celui avec le mage Illefarn autour de l'arbre ?
 
 
 
