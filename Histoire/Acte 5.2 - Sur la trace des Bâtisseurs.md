@@ -9,9 +9,7 @@ Nous avons appris en parlant avec la plèbe que beaucoup de gens ont eut des vis
 
 L'UnderDark est un espace atteint par les nains lorsqu'ils ont creusé la mine de MontProfond, ayant creusé trop profondément et ayant atteint la partie haute de l'UnderDark.
 
-```
-Des gens ont eut une vision d'un arbre, avec Halaster furieux. 
-```
+> Des gens ont eut une vision d'un arbre, avec Halaster furieux. 
 
 Cet endroit ne peut être qu'à Wyllowwood (niv -5) ou les fermes (niv -4). Après recoupement des témoignages, il apparût que seuls les mages du domaine de l'essence ont vécu cette vision.
 
@@ -100,10 +98,21 @@ Nous découvrons également des écrits sur un certain arbre, une bouture de l'a
 
 Nous sommes retournés faire dater les peintures murales, qui datent aux environ de 200 cv, soit l'époque environ qu'Halaster aurait quant à lui commencé à nettoyer MontProfond avant cette date. Peut être qu'une histoire à voulu être transmise à la postérité, au moment ou Halaster faisait son remue-ménage dans MontProfond ?
 
-Nos réflexions nous ont conduit aux questions et conclusions suivantes:
-- Les 7 bâtisseurs éthérés impliqués dans les événements de MontProfond sont-ils les 7 serviteurs du gardien, qui sont également détenteurs d'une influence sur les races lycans ?
-- A quoi a servi le rituel impliquant les 7 bâtisseurs éthérés avec le mage elfe et l'arbre ? Pourquoi impliquer des serviteurs du gardien / roi des ombres ?
-- ==Halaster est venu dans MontProfond aux environs de 200 cv avec 7 apprentis, qui avaient une forte résistance à la magie et dont on ne connait pas la véritable force, pour offrir des corps aux 7 bâtisseurs éthérés==. Mais que cherche-t-il de ces bâtisseurs ? pourquoi à cette époque ? Cela a-t-il un rapport avec les prophéties Illefarn / Nétherisse ? 
+Nos réflexions furent les suivantes:
+1. Halaster est venu dans MontProfond aux environs de 200 cv avec 7 apprentis, qui avaient une forte résistance à la magie et dont on ne connait pas la véritable force. Il a fouillé et nettoyé MontProfond sur des dizaines d'années. Pourquoi se donner tant de peine, accompagné de cette troupe de précisément 7 apprentis ? ==Halaster est venu dans MontProfond avec 7 apprentis pour faire en sorte que les 7 bâtisseurs éthérés se réincarnent==. 
+2. Le fait qu'Halaster les cherche si assidûment montre que ces Bâtisseurs éthérés ont encore un rôle à jouer. ==Ces 7 bâtisseurs éthérés sont certainement les 7 serviteurs du gardien==.
+3. Si Halaster avait trouvé et réincarné les bâtisseurs, que ferait-il encore ici ? et où seraient alors ces bâtisseurs réincarnés ? Le plus probable est qu'Halaster n'a finalement jamais trouvé les bâtisseurs, et on peut en déduire que ==l'action d'Halaster est hostile et que les bâtisseurs se cachent de lui pour ne pas subir de réincarnation==.
+
+Beaucoup de questions restent sans réponse:
+- Qu'est-ce que les bâtisseurs sont capables de faire qui intéresse tant Halaster ?
+- Pour qui travaille Halaster ?
+- Pourquoi à cette époque ?
+- Quel est le rapport avec les prophéties Illefarn / Nétherisse ?
+- A quoi a servi le rituel impliquant les 7 bâtisseurs éthérés avec le mage elfe et l'arbre ?
+- Puisque ces bâtisseurs sont également les 7 serviteurs du gardien / roi des ombres, quel rapport a ce rituel avec le roi des ombres ?
+- Quel est le rôle du pouvoir lycanthrope des 7 serviteurs du gardien dans cette campagne ?
+
+
 
 
 
