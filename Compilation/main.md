@@ -17,9 +17,9 @@
 ### Confrérie des Arcanes
 [lien](../Personnages%20&%20Groupes/Confrérie%20des%20Arcanes.md)
 ### Illefarn (Empire)
-[lien](../Personnages%20&%20Groupes/Illefarn.md)
+[lien](Illefarn.md)
 ### Tchazzam (famille)
-[lien](../Personnages%20&%20Groupes/Tchazzam%20(famille).md)
+[lien](Tchazzam%20(Famille).md)
 
 ***
 # Lieux

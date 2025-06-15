@@ -5,7 +5,7 @@
 
 Carina Tchazzam est la dernière descendante connue de la famille Tchazzam en [EauProfonde](../Lieux/EauProfonde.md). 
 N'embrasse pas (encore) les coutumes de nécromanciens de sa famille, qui a eut de nombreux membres convertis en liche par le passé. 
-N'est pas au fait des liens qu'à pût avoir sa famille avec les [Nétherisses](../Personnages%20&%20Groupes/Nétheril.md), les [Illefarns](../Personnages%20&%20Groupes/Illefarn.md) ou les [Bâtisseurs](../Personnages%20&%20Groupes/bâtisseurs.md).
+N'est pas au fait des liens qu'à pût avoir sa famille avec les [Nétherisses](Nétheril.md), les [Illefarns](Illefarn.md) ou les [Bâtisseurs](../Personnages%20&%20Groupes/bâtisseurs.md).
 
 #### Larloch Tchazzam
 

@@ -15,9 +15,11 @@ Cet endroit ne peut être qu'à Wyllowwood (niv -5) ou les fermes (niv -4). Apr�
 
 #### 2. Niveau -1
 
-Nous redescendons au niveau -1 de MontProfond, et prenons la direction de l'escalier menant au -2 situé au nord de ce niveau.
+Nous redescendons au niveau -1 de MontProfond, et prenons la direction de l'escalier menant au -2 situé au nord de ce niveau. Dans une salle tapie derrière un mur d'ombre magique, cachette d'ours garou et sangliers garou que nous avons occis.
 
-Dans une salle tapie derrière un mur d'ombre magique, cachette d'ours garou et sangliers garou que nous avons occis, nous sommes tombés sur des gravures murales représentant des bâtisseurs semblant célébrer un événement. Dans les affaires ce ces malfrats nous avons trouvés 10 statuettes représentant un serpent, que nous avons plut tard évalué à 15 po pièce et qui s'avérèrent représenter Tharsult.
+>Dans cette salle nous sommes tombés sur des gravures murales représentant des bâtisseurs célébrant un événement.
+
+Dans les affaires ce ces malfrats nous avons trouvés 10 statuettes représentant un serpent, que nous avons plut tard évalué à 15 po pièce et qui s'avérèrent représenter Tharsult.
 
 Lors de nos pérégrination nous sommes tombés sur un escalier montant depuis la zone 36 et débouchant sur une oubliette d'environ 3m de profondeur par rapport à la surface d'EauProfonde, recouverte de planches, qui est située dans l'arrière cour d'une taverne nommée La Nymphe, dans les quartier contenant toutes les tavernes d'EauProfonde.
 
@@ -26,6 +28,8 @@ Lors de nos pérégrination nous sommes tombés sur un escalier montant depuis l
 Nous nous sommes dirigé vers une immense salle abritant une pyramide, où nous avons combattu 2 morts-vivants de niveau 8.
 
 > La salle contient des gravures murales gigantesques, représentant des bâtisseurs, qui semblent effectuer des travaux manuels avec une utilisation de la magie.
+
+Puisque l'on sait que les bâtisseurs sont à l'origine des Tombeaux du Temps, construction à la fois physique et pétrie de magie pour bloquer le retour du [[Roi des Ombres]] dans ce plan, est-ce que cette fresque met en scène cette construction?
 
 En regardant nonchalamment en l'air, nous nous rendîmes compte qu'une araignée géante était en train de descendre lentement le long de son fil. En une attaque de la part de chacun, la bête était morte. Un magicien surgit alors d'une porte et nous fonçait dessus, que nous avons massacré avec la même efficacité.
 

@@ -1,4 +1,16 @@
 
+## Histoire récente
+
+Les Illefarns étaient un peuple elfe de la côte des épées, dont le royaume avait pour capitale Aelinthaldaar. En 1372 cv cette ville n'existe plus depuis des millénaires: elle a été rasée aux environs de -1000 cv, et sur les ruines à été progressivement construite la ville d'[[EauProfonde]]. Les descendants Illefarns ne sont plus qu’un peuple d’elfes dorés situés sur l’île d’Eternelle Rencontre, et les seuls vestiges Illefarn sur Faerun se trouvent sous l'actuelle EauProfonde.
+
+Les Illefarns furent les ennemis des Nétherisses, ces derniers sont à l’origine du gardien.
+
+Les Illefarns avaient une prophétie du retour du Roi des Ombres similaire mais en contradiction avec celle du [[Nétheril]]:
+
+> La prophétie Illefarn prévoit le retour du Roi des Ombres à cause d’un descendant du peuple de Nétheril qui deviendrait le vaisseau du gardien.
+
+
+## Histoire Ancienne
 #### Guerres de la Couronne
 
 Illefarn tenta de rester neutre durant la période turbulente des Guerres de la Couronne . En -11 800 CV , des refuges secrets furent fournis aux anciens citoyens Miyeritari par les elfes d'Illefarn. 
@@ -28,8 +40,4 @@ Outre les érudits, la mémoire d'Illefarn a été maintenue vivante par les nai
 
 En -2825 CV, les elfes d'Illefarn volèrent un ensemble de parchemins appartenant au Nétheril, établissant un équilibre délicat du pouvoir entre les nations qui dura des millénaires.
 
-
-### La prophétie du retour du Roi des Ombres
-
-La prophétie Illefarn évoque que le roi des ombre va revenir, et que ce retour sera provoqué par une personne du Nétheril. Cette prophétie est en contradiction avec celle côté [[Nétheril]].
 
