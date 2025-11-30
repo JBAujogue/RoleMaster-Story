@@ -2,20 +2,16 @@
 # Histoire
 
 [Résumé de campagne](https://docs.google.com/document/d/1Em_Js0DKwCV9CwphMTw3JViB5YuOdklwbiNxbndyj8I/edit?usp=sharing)
-
 ## Acte 5.1 - A la rencontre de la famille Tchazzam
 #### 1. L'évasion de MontProfond
 
 Nous nous sommes évadés des geôles de la Main et de l'Œil situées au niveau -3 de MontProfond, profitant du massacre de ce gang perpétré par 3 aventuriers, qui ont finalement été terrassés par un TyraMort. Dans son dernier souffle, l'un des aventuriers (un archer très séduisant du nom d'Erwenn) nous a suggéré de lire les souvenir du TyranOeil encastré dans le TyraMort afin de connaitre l'histoire de ces aventuriers, le TyranOeil ayant lui-même lu ces souvenirs dans l'esprit des aventuriers. Profitant du désordre ambiant, nous sommes ressorti à la surface en empruntant un portail magique menant directement dans un petit avant-poste de la Main, en plein centre d'EauProfonde, emportant l'œil avec nous.
-
 #### 2. L'installation à EauProfonde
 
 Une fois à la surface, nous avons revendu le matériel très haut de gamme trouvé sur les compagnons terrassés par le TyraMort, et avons utilisé cet argent pour acheter une riche maison du Quartier Noble d'EauProfonde et y installer un lieu de culte dédié aux dieux Torm et Celûne (??) ainsi que le comptoir commercial de notre Guilde du FBI (Fédération des Bouteurs d'Impies). Ceci fait, nous nous sommes mis en quête d'un mage nécromancien afin de pouvoir raviver l'œil et en extraire les souvenirs.
-
 #### 3. A la recherche d'un nécromancien
 
 Nous avons été orientés vers le cimetière d'EauProfonde, puis le fossoyeur nous suggéra d'inspecter le caveau familial d'une vieille lignée appelées Tchazzam. Le caveau était visiblement abandonné depuis des lustres, et en le visitant nous sommes tombés nez-à-nez avec un nécromancien, qui nous attaqua et envoya ses goules sur nous, et qui hélas succomba à ses blessures lors de son combat avec nous (il se serait pris une hache dans la tête). En fond de caveau trônait une immense statue représentant un Bâtisseur, avec une pierre à l'aspect précieux dans sa main.
-
 #### 4. La crypte secrète des Tchazzam
 
 Le plan établi était de retrouver l'actuel propriétaire du caveau familial afin de le convaincre de dégoter un nécromant pour nous, qui inspecterait la pierre précieuse pour en dégager toute trace de maléfice la reliant au nécromant que nous avons tué dans le caveau (et aussi extraire les souvenirs de notre TyranOeil). Le registre de la ville nous indiqua que la seule héritière connue en EauProfonde était une femme dénommée Carina Tchazzam, établie d'après le registre des comptoirs marchants comme couturière dans le quartier des marchands. Apres avoir rassemblé cette femme ainsi qu'un joaillier et un mage, nous sommes retournés dans le caveau pour inspecter cette gemme plus en détails.
@@ -23,41 +19,21 @@ Le plan établi était de retrouver l'actuel propriétaire du caveau familial af
 L'inspection du joaillier révéla que cette pierre était polie mais sans valeur. La pierre se mit à briller au contact de la descendante Tchazzam, mais également au contact du nécromant mort dans cette crypte. Nous observèrent qu'un sort offensif en plus du contact avec un Tchazzam activait un mécanisme faisant pivoter la statue de Bâtisseur, révélant ainsi un escalier descendant encore plus avant. En bas de cet escalier se trouvaient des cercueils en cercle.
 
 L'un de ces cercueil semblait ouvert depuis fort longtemps, avec le nom d'Arklem Greeth gravé dessus.
-
 #### 5. La rencontre avec Larloch
 
 Une autre cercueil avait récemment été déplacé, et lors de son ouverture nous sommes entrés en combat contre une Liche sommeillant dans le cercueil. Après l'avoir cloisonnée dans un sort de contention, nous avons pu discuter avec celle-ci, qui se nomme Larloch Tchazzam. En échange de notre engagement à restaurer le prestige de la famille Tchazzam, Larloch accepta d'inspecter l'œil et de répondre à toutes nos questions, et de nous donner accès à la bibliothèque familiale entreposée dans cette crypte.
 
 La vision des souvenirs de l'œil montra l'enchainement d'événements récents reliés aux prophéties du Nétheril et d'Illefarn, impliquant Arklem Greeth et la Confrérie des Arcanes, les Magiciens Rouge de Thay. Larloch était surpris de constater que Arklem, qui est un membre plus jeune de la famille Tchazzam, eût un rôle dans cette histoire. Il indiqua aussi que sa famille était liée (de quelle façon ??) à la présence de Bâtisseurs en EauProfonde, comme le montre la statue à l'entrée de la crypte secrète. ==Il indiqua également que des Bâtisseurs résidaient sous forme éthérée dans MontProfond. Aller à la rencontre de ces Bâtisseurs est la meilleure façon de comprendre leur rôle à jouer dans les événements à venir==.
-
 #### 6. Enquête sur le meurtre des parents Tchazzam
 
 Nous nous sommes engagés auprès de Carina Tchazzam d'en apprendre plus sur la mort de ses parents, brulés en pleine rue lorsque celle-ci avait environ 6 ans, et qui a précipité la chute de la famille. En enquêtant auprès du concierge vivant près de l'ancienne maison des Tchazzam, on apprend que les parents étaient ouvertement en conflit avec ?? BâtonDeTonnerre. Ce dernier à, ô coïncidence, racheté la boutique d'herboristerie de feu les Tchazzam et en a fait une boutique d'objets magiques et artefacts en tout genre. Une conversation avec lui sur son lieu de travail donne cependant peu de résultats. 
 
 En rentrant à la guilde nous furent attaqués par 2 mages rouge, qui furent vaincu facilement et laissés en vie afin d'être interrogés, ce qui fût fait par l'inquisiteur du groupe. Cet interrogatoire dévoila que BâtonDeTonnerre les envoyait pour nous tuer. Après avoir transporté ce dernier à la police de la ville, on apprendra lors d'aveux obtenus par force Question d'un inquisiteur du culte de Torm que ce dernier est responsable du meurtre des parents Tchazzam, selon un procédé identique à l'attaque que nous avons essuyé. Quant aux 2 mages qui nous ont attaqué, BâtonDeTonnerre les avait requis auprès de Thay il y a de cela 3 mois par missive, dont nous avons retrouvé une réponse dans ses archives.
-
 #### 7. L'impact de Thay sur les Tchazzam
 
 BâtonDeTonnerre reprochait publiquement aux Tchazzam de pratiquer la nécromancie, ce qui est effectivement une pratique bien installée dans la famille et qui a permis à Larloch et Arklem de se transformer en Liche et ainsi atteindre la vie éternelle (même si c'est pour moisir au fond d'une crypte). Cette accusation pût justifier à l'époque cette disparition si soudaine et peu naturelle. Cependant, on apprendra de BâtonDeTonnerre lui-même lors de son interrogatoire que Thay était le véritable commanditaire de cet assassinat, effectué par des Magiciens Rouge de Thay.
 
-
 ## Acte 5.2 - Sur la trace des Bâtisseurs
-
-A la fin de l'Acte 5.1 Larloch nous a informé que des Bâtisseurs résidaient sous forme éthérée dans MontProfond. Aller à la rencontre de ces Bâtisseurs est la meilleure façon de comprendre leur rôle à jouer dans les événements à venir.
-
-#### 1. La descente dans MontProfond
-
-Nous sommes descendus dans le village souterrain du niveau -0.5 de MontProfond. Après une descente éclair au niveau -1 où nous avons affronté un double de notre compagnon puis quelques orcs, nous sommes remonté au village souterrain pour vendre notre loot.
-
-Nous avons appris en parlant avec la plèbe que beaucoup de gens ont eut des visions d'Halaster, le mage fou de MontProfond, qui a créé tout ce qui rend ces sous-sols vivables. Il fut considéré comme un maitre des portails, et il a créé tous ceux de MontProfond. Quand Halaster a pris le pouvoir au sein de MontProfond il a viré tous les mains et autres, et a transformé cette mine en un endroit vivable. Il a réussi a faire dévier une rivière de l'UnderDark pour que celle-ci coule sur plusieurs niveaux de MontProfond. Nous avions déjà vu cette rivière lorsque nous étions emprisonnés au niveau Sargauth (niv -3).
-
-L'UnderDark est un espace atteint par les nains lorsqu'ils ont creusé la mine de MontProfond, ayant creusé trop profondément et ayant atteint la partie haute de l'UnderDark.
-
-> Des gens ont eut une vision d'un arbre, avec Halaster furieux. 
-
-Cet endroit ne peut être qu'à Wyllowwood (niv -5) ou les fermes (niv -4). Après recoupement des témoignages, il apparût que seuls les mages du domaine de l'essence ont vécu cette vision.
-
-#### 2. Niveau -1
 
 Nous redescendons au niveau -1 de MontProfond, et prenons la direction de l'escalier menant au -2 situé au nord de ce niveau. Dans une salle tapie derrière un mur d'ombre magique, cachette d'ours garou et sangliers garou que nous avons occis.
 
@@ -67,7 +43,18 @@ Dans les affaires ce ces malfrats nous avons trouvés 10 statuettes représentan
 
 Lors de nos pérégrination nous sommes tombés sur un escalier montant depuis la zone 36 et débouchant sur une oubliette d'environ 3m de profondeur par rapport à la surface d'EauProfonde, recouverte de planches, qui est située dans l'arrière cour d'une taverne nommée La Nymphe, dans les quartier contenant toutes les tavernes d'EauProfonde.
 
-#### 3. Niveau -2
+### MontProfond niv 1
+
+Nous redescendons au niveau -1 de MontProfond, et prenons la direction de l'escalier menant au -2 situé au nord de ce niveau. Dans une salle tapie derrière un mur d'ombre magique, cachette d'ours garou et sangliers garou que nous avons occis.
+
+>Dans cette salle nous sommes tombés sur des gravures murales représentant des bâtisseurs célébrant un événement.
+
+Dans les affaires ce ces malfrats nous avons trouvés 10 statuettes représentant un serpent, que nous avons plut tard évalué à 15 po pièce et qui s'avérèrent représenter Tharsult.
+
+Lors de nos pérégrination nous sommes tombés sur un escalier montant depuis la zone 36 et débouchant sur une oubliette d'environ 3m de profondeur par rapport à la surface d'EauProfonde, recouverte de planches, qui est située dans l'arrière cour d'une taverne nommée La Nymphe, dans les quartier contenant toutes les tavernes d'EauProfonde.
+
+### MontProfond niv 2
+#### 1. Première fresque
 
 Nous nous sommes dirigé vers une immense salle abritant une pyramide, où nous avons combattu 2 morts-vivants de niveau 8.
 
@@ -76,6 +63,7 @@ Nous nous sommes dirigé vers une immense salle abritant une pyramide, où nous 
 Puisque l'on sait que les bâtisseurs sont à l'origine des Tombeaux du Temps, construction à la fois physique et pétrie de magie pour bloquer le retour du Roi des Ombres dans ce plan, est-ce que cette fresque met en scène cette construction?
 
 En regardant nonchalamment en l'air, nous nous rendîmes compte qu'une araignée géante était en train de descendre lentement le long de son fil. En une attaque de la part de chacun, la bête était morte. Un magicien surgit alors d'une porte et nous fonçait dessus, que nous avons massacré avec la même efficacité.
+#### 2. Seconde fresque
 
 En entrant dans la pièce d'où venait ce mage:
 
@@ -98,6 +86,7 @@ Pourrait-elle être une Illefarn ? à part sa nature d'elfe, nous n'avons pas d'
 Nous faisons une pause et remontons à la surface, ce qui nous donnait l'occasion d'améliorer nos armes. Le procédé a pris 3 mois (!), a l'issue duquel nous sommes allés percevoir les royalties sur les affaires de notre guilde. Nous redescendons ensuite au point duquel nous étions partis.
 
 Nous continuons dans les couloirs et rentrons dans une salle tapies d'ossements, dont surgissent comme par magie 3 squelettes. Nous les annihilons, et allons passer la porte est derrière la quelle se cachait un mage nécromancien. Un carreau d'arbalète lui transperçait le cœur, il a chancelé quelques pas puis s'écroulait, mort.
+#### 3. Troisième fresque
 
 Nous continuâmes notre chemin jusqu'à une immense salle emplie de piliers. 
 
@@ -121,6 +110,7 @@ Lorsque nous entrons dans la salle suivante, celle où nous avions entendus des 
 >Tout le monde connaît l’histoire d’Halaster arrivé avec 7 apprentis lorsqu’il a conquis MontProfond.
 
 L'auteur de ces notes semblait être à la recherche de ce qui contrôlait les lycans, ce qui l'aurait amené ici. Il semble persuadé que ces serviteurs sont des lycans eux-mêmes, ce qui reste à prouver.
+#### 4. Quatrième fresque
 
 > Nous découvrons ensuite d'autres peintures, représentant des bâtisseurs sous leur forme éthérée, accompagnés d'un mage elfe, en train de faire un rituel autour d'un arbre.
 
@@ -149,8 +139,7 @@ Beaucoup de questions restent sans réponse:
 - Quel est le rôle du pouvoir lycanthrope des 7 serviteurs du gardien dans cette campagne ?
 - Quand à eut lieu le massacre des Bâtisseurs ? quel impact cela a-t-il eut ? Qui en est responsable ?
 - Les bâtisseurs ont créés les tombeaux du temps, certainement que ces serviteurs du gardien ont activement participé, leur gardien ayant été corrompu et n'agissant plus pour le bien des Illefarn. La création de ces tombeaux est-elle liée à ces rituels de décorporation et celui avec le mage Illefarn autour de l'arbre ?
-
-(Continuation Juin - Nov 2025)
+#### 5. Le message d'Halaster
 
 Nous avons définit une trajectoire menant au niveau -3, qui nous permettra ensuite de descendre au niveau -4 pour rechercher cet arbre ainsi que toute trace de bâtisseurs (ou Halaster. Cette trajectoire passe par les étapes 2-O, 2B, 2U.
 
@@ -179,6 +168,7 @@ Plus loin (en 2U) nous trouvons un parchemin par terre, ensanglanté, mentionnan
 il attend des globes oculaires de TyranOeil."
 
 Des mercenaires ont dû faire tomber ce message en faisant une mauvaise rencontre dans ces couloirs sans fin…
+#### 6. L'essai de Lycantropie
 
 Plus loin encore (en 4BA) nous nous trouvons nez-à-nez avec une porte, qui présente une sorte de mécanisme à base de 6 pierres. Cette porte émet de la magie. Un de nos compagnon se fait téléporter derrière, et se retrouve dans un laboratoire de nécromancie. Il ouvre la porte de l'intérieur, tandis qu'une créature se positionne au centre de la pièce. Il s'agit d'un seigneur squelette, qui fonce droit sur nous. Après l'occire, puis fouillons le laboratoire. Nous trouvons des parchemins en runique, et d'autres parchemins de nécromancie. 
 
@@ -192,7 +182,13 @@ Nous enchainons sur 2M, ou nous trouvons un tunnel très rudimentaire creusé da
 
 *EDIT: nous avons fait totalement fausse route, et après un retour éclair en surface nous redescendons au niveau -2 pour rejoindre l'escalier de la zone D accédant au niveau -3.*
 
-#### 4. Niveau -3
+
+
+
+### MontProfond niv 3
+
+
+
 
 
 
