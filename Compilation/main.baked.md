@@ -150,9 +150,10 @@ En 2-O nous trouvons une épée longue avec un parchemin enroulé autour de la g
 retourner contre récompense."
 
 En 2B nous nous trouvons nez-à-nez avec un rideau d'ombre, semblant absorber toute lumière. Nous affrontons 3 squelettes cachés derrière un mur anti magie et absorbant tout sens.
+
 Apres les avoir tués nous trouvons une baguette de magie Essence par terre, en la saisissant un de nos compagnons entend soudain une voix dans sa tête, C'est Halaster qui nous transmet le message suivant:
 
-> Halaster est en conflit avec ses apprentis **depuis qu’ils sont devenus lycans**, il a récemment été vaincu, mais il réussi à échapper à la mort en quittant son corps quant celui-ci a été détruit,**il se trouve maintenant dans le plan de l’Ether**. Son esprit peut entrer en contact avec les magiciens de l’essence grâce au plan élémental.
+> Halaster est en conflit avec ses apprentis **depuis qu’ils sont devenus lycans**, il a récemment été vaincu, mais il réussi à échapper à la mort en quittant son corps quant celui-ci a été détruit, **il se trouve maintenant dans le plan de l’Ether**. Son esprit peut entrer en contact avec les magiciens de l’essence grâce au plan élémental.
 > 
 > Il protège un arbre dont il a tué le propriétaire. En le touchant il a appris que les bâtisseurs se trouvent en stase à l’intérieur, et il refuse que ses apprentis mettent la main dessus car il sait que les bâtisseurs étaient extrêmement puissants.
 > 
@@ -172,7 +173,9 @@ Des mercenaires ont dû faire tomber ce message en faisant une mauvaise rencontr
 
 Plus loin encore (en 4BA) nous nous trouvons nez-à-nez avec une porte, qui présente une sorte de mécanisme à base de 6 pierres. Cette porte émet de la magie. Un de nos compagnon se fait téléporter derrière, et se retrouve dans un laboratoire de nécromancie. Il ouvre la porte de l'intérieur, tandis qu'une créature se positionne au centre de la pièce. Il s'agit d'un seigneur squelette, qui fonce droit sur nous. Après l'occire, puis fouillons le laboratoire. Nous trouvons des parchemins en runique, et d'autres parchemins de nécromancie. 
 
-> Nous tombons sur la note intitulée "essai de lycantropie", vraisemblablement écrit par un apprenti d'Halaster, qui indique que les 6 races de lycan ont été crées par ces 7 apprentis à partir de la race vampire. On apprend également que les 7 apprentis sont eux-mêmes des lycans.
+> Nous tombons sur la note intitulée "essai de lycantropie", vraisemblablement écrit par un apprenti d'Halaster, qui indique que les 6 races de lycan ont été crées par ces 7 apprentis à partir du vampirisme. On apprend également que les 7 apprentis sont eux-mêmes des lycans. 
+> 
+> La septième race de lycan est celle associée au vampirisme, la chauve-souris.
 
 Nous poursuivons dans le couloir jusqu'à tomber sur une porte avec l'inscription: "Ci-git Fendel le sans-pareil". Derrière cette porte nous trouvons un cercueil, ouvert, avec un squelette dépourvu du crane. Il s'avère que le crane flottait a plusieurs mètres au dessus du cercueil, crachant des flammes et de l'huile à ceux qui se trouvent en contrebas. Nous détruisons le crane puis continuons notre chemin.
 
@@ -186,6 +189,13 @@ Nous enchainons sur 2M, ou nous trouvons un tunnel très rudimentaire creusé da
 
 
 ### MontProfond niv 3
+
+Nous avançons dans les tunnels jusqu'à atteindre une salle (63) avec un autel accessible via quelques marches. L'ensemble brille d'une lumière rougeâtre. En entrant dans la pièce, nos pas ainsi que tous nos objets magiques se mettent à briller d'une lumière blanche jaune. Suspectant une magie de nécromancie, l'un d'entre nous effectue alors un sort de dissipation d'essence, qui réussit à dissiper tout ceci. Au sommet des marches menant au trône, se trouve un demi-cercle de pierres avec des runes inscrites.
+
+Nous poursuivons notre chemin jusqu'à une prochaine salle (62), dans laquelle une brune épaisse obscurcit la vue tandis qu'un battement répété se fait entendre dans la pièce. Il s'agit d'un vampire, très rapide et très puissant, nous donna du fil a retordre. Après l'avoir tué nous devons massacrer une paire de goules qui sortait de piliers de la pièce. Nous remontons ensuite en surface afin de panser nos plaies, profondes.
+
+De retour au -3, nous poursuivons pour ouvrir une porte non verrouillée donnant sur une salle au fond de laquelle trône un trône. Derrière ce trône on trouva la pierre gravée de rune ressemblant à celles en salle 63. Nous arrivons à extraire cette pierre de la salle sans déclencher de mésaventure, et nous la plaçons dans l'autel précédent. Ceci ouvre un portail, duquel sort aussitôt un diablotin qui cours et sort aussitôt de la pièce. Celui-ci est immédiatement suivi de 3 molosses. L'un d'entre nous était en état d'invisibilité: celui-ci en profite pour desceller la pierre de l'autel et ainsi couper le portail. Nous massacrons ensuite les molosses, et n'essayons pas de poursuivre le diablotin échappé.
+
 
 
 
