@@ -61,7 +61,7 @@ Nous continuâmes notre chemin jusqu'à une immense salle emplie de piliers.
 
 Nous soupçonnons que ces 7 bâtisseurs qui se décorporent sont les 7 serviteurs du gardien introduits dans la note trouvée précédemment, et qu'ils basculent sous forme éthérée.
 
-En continuant nous nous trouvons nez-à-nez à une immense porte en pierre de 12 m de haut, à double battant. Derrière nous entendons une faible voix, féminine, appelant à l'aide en gémissant et en poussant des hurlements. Une détection du pouvoir nous informe que cette porte est maintenue par magie, que nous supprimons avec une suppression d'essence. En poussant la porte celle-ci s'écrase sur 2 de nos camarades, nous blessant et nous gardant coincés. Notre acolyte n'ayant pas paris la porte sur la courge s'en va chercher un objet pour faire levier, revenant avec une épée à 2 main qui s'avéra suffisante pour libérer les captifs. pendant la scène, plusieurs projectives filants dans l'air furent entendus. En inspectant l'endroit où ceux-ci ont finis leur course, nous déduisîmes qu'un Shard est à nos trousses. Nous le prenons en tenaille alors qu'il réapparait au centre de la pièce, le blessons mais il parvint à se libérer et fuyait instantanément. Malgré les traces de sang qui nous auraient permis de suivre sa trace, nous suspectons que la bête allait rejoindre sa horde et nous préférons donc continuer notre route.
+En continuant nous nous trouvons nez-à-nez à une immense porte en pierre de 12 m de haut, à double battant (Salle 47 du niv -2). Derrière nous entendons une faible voix, féminine, appelant à l'aide en gémissant et en poussant des hurlements. Une détection du pouvoir nous informe que cette porte est maintenue par magie, que nous supprimons avec une suppression d'essence. En poussant la porte celle-ci s'écrase sur 2 de nos camarades, nous blessant et nous gardant coincés. Notre acolyte n'ayant pas paris la porte sur la courge s'en va chercher un objet pour faire levier, revenant avec une épée à 2 main qui s'avéra suffisante pour libérer les captifs. pendant la scène, plusieurs projectives filants dans l'air furent entendus. En inspectant l'endroit où ceux-ci ont finis leur course, nous déduisîmes qu'un Shard est à nos trousses. Nous le prenons en tenaille alors qu'il réapparait au centre de la pièce, le blessons mais il parvint à se libérer et fuyait instantanément. Malgré les traces de sang qui nous auraient permis de suivre sa trace, nous suspectons que la bête allait rejoindre sa horde et nous préférons donc continuer notre route.
 
 Lorsque nous entrons dans la salle suivante, celle où nous avions entendus des cris, un filet rempli de meuble et vaisselle s'écrase sur nous, nous blessant légèrement. S'en suit un combat acharné contre des créature transformées en chien d'attaque. Apres ce combat, nous trouvons un cimeterre en argent, ainsi qu'une [note](https://docs.google.com/document/d/1oiS8B6S8LtcabPYSHWGm_cu-gDxVSE6JZuZKvPjDHjQ/edit?tab=t.0):
 
@@ -106,22 +106,48 @@ Beaucoup de questions restent sans réponse:
 - Quand à eut lieu le massacre des Bâtisseurs ? quel impact cela a-t-il eut ? Qui en est responsable ?
 - Les bâtisseurs ont créés les tombeaux du temps, certainement que ces serviteurs du gardien ont activement participé, leur gardien ayant été corrompu et n'agissant plus pour le bien des Illefarn. La création de ces tombeaux est-elle liée à ces rituels de décorporation et celui avec le mage Illefarn autour de l'arbre ?
 
+(Continuation Juin - Nov 2025)
 
+Nous avons définit une trajectoire menant au niveau -3, qui nous permettra ensuite de descendre au niveau -4 pour rechercher cet arbre ainsi que toute trace de bâtisseurs (ou Halaster. Cette trajectoire passe par les étapes 2-O, 2B, 2U.
 
+En 2-O nous trouvons une épée longue avec un parchemin enroulé autour de la garde. Le message du parchemin est:
 
+"Arguld Alonseit, gentil homme aventurier,
+épée tueuse de dragon, râtelier inférieur,
+retourner contre récompense."
 
+En 2B nous nous trouvons nez-à-nez avec un rideau d'ombre, semblant absorber toute lumière. Nous affrontons 3 squelettes cachés derrière un mur anti magie et absorbant tout sens.
+Apres les avoir tués nous trouvons une baguette de magie Essence par terre, en la saisissant un de nos compagnons entend soudain une voix dans sa tête, C'est Halaster qui nous transmet le message suivant:
 
+> Halaster est en conflit avec ses apprentis **depuis qu’ils sont devenus lycans**, il a récemment été vaincu, mais il réussi à échapper à la mort en quittant son corps quant celui-ci a été détruit,**il se trouve maintenant dans le plan de l’Ether**. Son esprit peut entrer en contact avec les magiciens de l’essence grâce au plan élémental.
+> 
+> Il protège un arbre dont il a tué le propriétaire. En le touchant il a appris que les bâtisseurs se trouvent en stase à l’intérieur, et il refuse que ses apprentis mettent la main dessus car il sait que les bâtisseurs étaient extrêmement puissants.
+> 
+> L’arbre se trouve au niveau -4: le niveau des fermes, plus précisément à THE WYLLOWWOOD. Cette arbre a été créé par un mage elfe à partir d’une bouture d’un arbre monde à laquelle a été greffé un susurre, il doit donc posséder des propriétés magiques uniques mais crée des zones anti magie autour de lui. N’importe quelle personne qui touche cet arbre peut entrer en contact avec les bâtisseurs.
+> 
+> Mais il demande en échange de l’emplacement de l’arbre que nos compagnons lui trouvent un nouveau corps en bonne santé. Pour tuer un des lycans il pense que les sorts théurgiques sont les seuls qui sont efficaces, lui même n’étant pas un théurge, il n’a jamais su manier avec habileté ces sorts.
 
+Les bâtisseurs éthérés sont donc contenus dans la bouture d'arbre monde située au -4, celle avec un susurre créant une zone d'anti magie. Halaster protège cet arbre de ses anciens apprentis depuis son plan de l'Ether.
 
+Plus loin (en 2U) nous trouvons un parchemin par terre, ensanglanté, mentionnant:
 
+"Onag attend dans la boutique,
+il attend des globes oculaires de TyranOeil."
 
+Des mercenaires ont dû faire tomber ce message en faisant une mauvaise rencontre dans ces couloirs sans fin…
 
+Plus loin encore (en 4BA) nous nous trouvons nez-à-nez avec une porte, qui présente une sorte de mécanisme à base de 6 pierres. Cette porte émet de la magie. Un de nos compagnon se fait téléporter derrière, et se retrouve dans un laboratoire de nécromancie. Il ouvre la porte de l'intérieur, tandis qu'une créature se positionne au centre de la pièce. Il s'agit d'un seigneur squelette, qui fonce droit sur nous. Après l'occire, puis fouillons le laboratoire. Nous trouvons des parchemins en runique, et d'autres parchemins de nécromancie. 
 
+> Nous tombons sur la note intitulée "essai de lycantropie", vraisemblablement écrit par un apprenti d'Halaster, qui indique que les 6 races de lycan ont été crées par ces 7 apprentis à partir de la race vampire. On apprend également que les 7 apprentis sont eux-mêmes des lycans.
 
+Nous poursuivons dans le couloir jusqu'à tomber sur une porte avec l'inscription: "Ci-git Fendel le sans-pareil". Derrière cette porte nous trouvons un cercueil, ouvert, avec un squelette dépourvu du crane. Il s'avère que le crane flottait a plusieurs mètres au dessus du cercueil, crachant des flammes et de l'huile à ceux qui se trouvent en contrebas. Nous détruisons le crane puis continuons notre chemin.
 
+Nous poursuivons en 2Y, en approchant nous entendons une chanson d'une femme, mélancolique, empruntant des tons et vocabulaires anciens, contant avec tristesse la perte d'un homme ayant affronté un dragon et un ours hibou.
 
+Nous enchainons sur 2M, ou nous trouvons un tunnel très rudimentaire creusé dans la roche, et en le suivant nous trouvâmes une immense araignée nous prenant d'assaut par le plafond. Apres l'avoir détruite nous enchainons sur la dernière salle de ce niveau, pour ensuite accéder à l'escaler menant au niveau -3 (escalier 2L).
 
+*EDIT: nous avons fait totalement fausse route, et après un retour éclair en surface nous redescendons au niveau -2 pour rejoindre l'escalier de la zone D accédant au niveau -3.*
 
-
+#### 4. Niveau -3
 
 
