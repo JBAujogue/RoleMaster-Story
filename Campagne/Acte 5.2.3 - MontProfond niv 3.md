@@ -1,3 +1,4 @@
+#### 1. Le chasseur d'orbes
 
 Nous avançons dans les tunnels jusqu'à atteindre une salle (63) avec un autel accessible via quelques marches. L'ensemble brille d'une lumière rougeâtre. En entrant dans la pièce, nos pas ainsi que tous nos objets magiques se mettent à briller d'une lumière blanche jaune. Suspectant une magie de nécromancie, l'un d'entre nous effectue alors un sort de dissipation d'essence, qui réussit à dissiper tout ceci. Au sommet des marches menant au trône, se trouve un demi-cercle de pierres avec des runes inscrites.
 
@@ -12,3 +13,4 @@ Nous descendons dans une salle, dans laquelle se trouvent 4 bestioles, des genre
 Au fond de la pièce se situe une geôle contenant un homme, enfermé ici depuis plusieurs mois. 
 
 > Cet homme cherchait des reliques en MontProfond: les ==orbes du Gardien==. Il nous apprend que ce lycan est un des apprentis d'Halaster, et a compris que les apprentis ont été corrompus par ces orbes, il a même vu le lycan transporter cette orbe. Mais ces artefacts n'étaient pas sensé corrompre: ces orbes du gardien étaient liées au gardien avant sa corruption en roi des ombres. Il suggère donc que la corruption des orbes est consécutive à la corruption du gardien en roi des ombres. Il nous apprend que le lycan que nous avons tué est a l'origine de la race de ours-garou.
+
