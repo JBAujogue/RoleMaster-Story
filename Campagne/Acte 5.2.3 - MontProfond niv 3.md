@@ -10,7 +10,18 @@ Nous nous dirigeons vers une salle (60A), dans laquelle se trouve une trappe ave
 
 Nous descendons dans une salle, dans laquelle se trouvent 4 bestioles, des genre de petits ours-garou, qui nous attendent, ainsi qu'un énorme ours-garou au fond de la pièce qui nous devise. Nous combattons ces animaux, et le plus fort d'entre nous fait briller son matériel est massacre l'énorme ours-garou d'un seul coup, faisant redevenir son cadavre sous forme humaine.
 
-Au fond de la pièce se situe une geôle contenant un homme, enfermé ici depuis plusieurs mois. 
+Au fond de la pièce se situe une geôle contenant un homme, qui dit s'appeler Grégoire, enfermé ici depuis plusieurs mois. 
 
-> Cet homme cherchait des reliques en MontProfond: les ==orbes du Gardien==. Il nous apprend que ce lycan est un des apprentis d'Halaster, et a compris que les apprentis ont été corrompus par ces orbes, il a même vu le lycan transporter cette orbe. Mais ces artefacts n'étaient pas sensé corrompre: ces orbes du gardien étaient liées au gardien avant sa corruption en roi des ombres. Il suggère donc que la corruption des orbes est consécutive à la corruption du gardien en roi des ombres. Il nous apprend que le lycan que nous avons tué est a l'origine de la race de ours-garou.
+> Cet homme cherchait des reliques en MontProfond: les ==orbes du Gardien==. Il nous apprend que ce lycan est un des apprentis d'Halaster, car celui-ci se vantait de l'avoir tué. I a vu un vampire venir dans cette salle, et l'ours-garou semblait être à son service.
+> 
+> Il a compris que les apprentis ont été corrompus par ces orbes, il a même vu le lycan transporter cette orbe autour du cou. Mais ces artefacts n'étaient pas sensé corrompre: ces orbes du gardien étaient liées au gardien avant sa corruption en roi des ombres. Il suggère donc que la corruption des orbes est consécutive à la corruption du gardien en roi des ombres. Il nous apprend que le lycan que nous avons tué est a l'origine de la race de ours-garou.
+> 
+> Nous trouvons également un parchemin semblant parler d'un transferts d'âme, ainsi qu'un autre parchemin écrit en elfique.
 
+Cet homme n'a jamais su pourquoi il a été maintenu en vie. Il va maintenant s'intéresser à d'autre reliques. Nous faisons un marché avec lui: s'il nous accompagne et qu'il met a profit ses techniques de discrétion, nous pouvons en retour le protéger contre les créatures, et lui proposer 1/4 du butin que nous trouverons. Il accepte notre proposition, et nous le faisons sortir de sa geôle.
+
+#### 2. Le puit de Ghanadaur
+
+Nous rejoignons la rivière, et absorbons une potion d'invisibilité et une de vol afin de planer au dessus du sillon de la rivière sans être vu de l'Œil, jusqu'au puit de Ghanadaur. Nous suivons le sillon de la rivière, jusqu'à arriver à un port souterrain, accoudé à la ville souterraine de Port-au-Crane. 
+
+En contournant le port pour rejoindre le puit, nos incantations d'invisibilité et de vol prennent soudainement fin, nous faisant tomber en chute libre vers l'eau de la rivière. nous arrivons tant bien que mal a atterrir sur une des tour de garde, nous confrontant avec des gardes en arbalète. Nous les houspillons et, tandis que la progressions continue, tentons de trouver un moyen de rejoindre le puit malgré la zone d'anti magie ayant effet.
