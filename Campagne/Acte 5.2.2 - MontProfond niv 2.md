@@ -128,6 +128,3 @@ Nous poursuivons en 2Y, en approchant nous entendons une chanson d'une femme, m�
 Nous enchainons sur 2M, ou nous trouvons un tunnel très rudimentaire creusé dans la roche, et en le suivant nous trouvâmes une immense araignée nous prenant d'assaut par le plafond. Apres l'avoir détruite nous enchainons sur la dernière salle de ce niveau, pour ensuite accéder à l'escaler menant au niveau -3 (escalier 2L).
 
 *EDIT: nous avons fait totalement fausse route, et après un retour éclair en surface nous redescendons au niveau -2 pour rejoindre l'escalier de la zone D accédant au niveau -3.*
-
-
-

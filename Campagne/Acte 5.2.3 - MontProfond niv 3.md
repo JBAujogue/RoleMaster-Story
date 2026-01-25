@@ -5,8 +5,10 @@ Nous poursuivons notre chemin jusqu'à une prochaine salle (62), dans laquelle u
 
 De retour au -3, nous poursuivons pour ouvrir une porte non verrouillée donnant sur une salle au fond de laquelle trône un trône. Derrière ce trône on trouva la pierre gravée de rune ressemblant à celles en salle 63. Nous arrivons à extraire cette pierre de la salle sans déclencher de mésaventure, et nous la plaçons dans l'autel précédent. Ceci ouvre un portail, duquel sort aussitôt un diablotin qui cours et sort aussitôt de la pièce. Celui-ci est immédiatement suivi de 3 molosses. L'un d'entre nous était en état d'invisibilité: celui-ci en profite pour desceller la pierre de l'autel et ainsi couper le portail. Nous massacrons ensuite les molosses, et n'essayons pas de poursuivre le diablotin échappé.
 
+Nous nous dirigeons vers une salle (60A), dans laquelle se trouve une trappe avec une serrure semblant correspondre à une clé que nous avions précédemment trouvé. L'un d'entre nous y détecte un piège, et tente (sans succès) de le désactiver. Nous ouvrons la trappe, pour entendre alors un grognement sourd et puissant, provenant de l'escalier situé sous la trappe. Nous nous préparons au combat, et surgit alors un ours-garou, que nous massacrons en un seul round. l'ours retourne sous sa forme humaine originelle, et présente un cadavre sans particularité. D'autres grognements se font entendre depuis l'escalier.
 
+Nous descendons dans une salle, dans laquelle se trouvent 4 bestioles, des genre de petits ours-garou, qui nous attendent, ainsi qu'un énorme ours-garou au fond de la pièce qui nous devise. Nous combattons ces animaux, et le plus fort d'entre nous fait briller son matériel est massacre l'énorme ours-garou d'un seul coup, faisant redevenir son cadavre sous forme humaine.
 
+Au fond de la pièce se situe une geôle contenant un homme, enfermé ici depuis plusieurs mois. 
 
-
-
+> Cet homme cherchait des reliques en MontProfond: les ==orbes du Gardien==. Il nous apprend que ce lycan est un des apprentis d'Halaster, et a compris que les apprentis ont été corrompus par ces orbes, il a même vu le lycan transporter cette orbe. Mais ces artefacts n'étaient pas sensé corrompre: ces orbes du gardien étaient liées au gardien avant sa corruption en roi des ombres. Il suggère donc que la corruption des orbes est consécutive à la corruption du gardien en roi des ombres. Il nous apprend que le lycan que nous avons tué est a l'origine de la race de ours-garou.
