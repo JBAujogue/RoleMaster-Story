@@ -94,8 +94,3 @@ Nous retournons voir Alais pour se renseigner sur cette mystérieuse pierre. Cel
 #### 6.  Le départ pour les Fermes
 
 Nous retournons voir Zweig, nous dirigeons vers le port et embarquons enfin. Les écluses se lèvent, nous passons au niveau inférieur part le puit de Ghanadaur.
-
-
-
-
-

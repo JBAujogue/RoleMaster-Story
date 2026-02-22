@@ -13,5 +13,3 @@ Nos premières questions:
 - Quelle est la source de cette lumière ?
 
 Nous apercevons une tombe (en 2D). Il semble y avoir de la vie au sud de la foret noire (la zone 2D).
-
-

@@ -13,7 +13,7 @@
 ### MontProfond niv 3
 [lien](Acte%205.2.3%20-%20MontProfond%20niv%203.md)
 ### MontProfond niv 4
-[lien](Acte%205.2.3%20-%20MontProfond%20niv%204.md)
+[lien](Acte%205.2.4%20-%20MontProfond%20niv%204.md)
 
 ***
 # Personnages & Groupes
