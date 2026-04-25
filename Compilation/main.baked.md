@@ -333,11 +333,16 @@ Elle nous emmène à l'arbre, et nous le touchons. Le toucheur se raidit, et ent
 > Pour la réincarnation: soit trouver un hôte puissant, qui accepterait d'être effacé par l'esprit de Bâtisseur, soit trouver un objet magique forgé très puissant, un artefact. Cet artefact pourrait transporter l'essence d'une personne temporairement. Dans un artefact, l'esprit sera en stase et donc injoignable. Ceci serait de toute façon temporaire, il faudra un hôte vivant in fine, un hôte physiquement puissant, et sachant naturellement manier la magie.
 > Cet hôte ne peut être une créature liée au roi des ombres, car cela pourrait corrompre l'âme du Bâtisseur.
 
-Nous transférons l'âme du Bâtisseur dans l'artefact de l'un d'entre nous.
+Nous transférons l'âme du Bâtisseur dans l'artefact de l'un d'entre nous, et récoltons de la sève de cet Arbre-Monde.
 
 C'est alors que surgit un énorme Loup-Garou, qui semblait nous espionner depuis les buissons. Willow reconnait Kestrel, et on se rappelle alors les mots que Kestrel avait dit à Port-au-Crane: "la pleine lune approche, et EauProfonde hurlera sous nos ordres". C'est l'un des ex-apprentis d'Halaster qui a été lycantropé et corrompu.
 
+Notre mission en MontProfond est finie:
+- Nous avons un Bâtisseur.
+- Nous avons la sève d'Arbre-Monde pour effectuer un rituel de transferts d'âme.
+- Nous avons beaucoup de réponses à nos questions.
 
+Willow nous indique un portail à sens unique pour remonter en surface, que nous empruntons.
 
 ***
 # Personnages & Groupes
